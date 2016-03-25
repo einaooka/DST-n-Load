@@ -1,4 +1,4 @@
-# DST-n-Load
+# Daylight Saving Time and Energy Consumption
 
 A quick analysis to determine an answer to the following question: 
 
